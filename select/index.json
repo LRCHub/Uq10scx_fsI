@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハッピーエンディング / 梓川（Visualizer）",
+  "base_artist": "梓川",
+  "createdAt": "2026-03-10T11:11:51.043414Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーエンディング",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーエンディング_梓川.txt"
+    }
+  ]
+}
